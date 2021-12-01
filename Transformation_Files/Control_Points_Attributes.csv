@@ -1,0 +1,139 @@
+Control_ID,TYPE,NAME_MAP,FULL_NAME_MAP,YEAR_ESTABLISHED,CURRENT_NAME,NOTES
+101,Building,Baie-St-Paul,Baie-St-Paul,1681,,Undated Church
+103,Building,Beaumont,Beaumont,1681,,Undated Church
+104,Building,Beauport,Beauport,1664,,Church 17th Century
+105,Building,Bécancour,Bécancour,1681,,"No Church, appr location"
+106,Building,Berthier-sur-Mer (Berthier-en-Bas),"Berthier, co. de Montmagny",1681,,Undated Church
+107,Building,Berthierville (Berthier-en-Haut),"Berthier, co. de Berthier",1727,,Undated Church
+108,Building,Boucherville,Boucherville,1668,,Undated Church
+109,Building,Cap-de-la-Madeleine,Cap-de-la-Madeleine,1664,,"Original Structure near 19th c. Church, Think I've Identified it but not 100% Sure"
+110,Building,Cap-Santé,Cap-Santé,1679,,Undated Church
+112,Building,Chambly,Chambly,1668,Paroisse Catholique Saint-Joseph-de-Chambly,Church Rebuilt 19th c.
+114,Building,Charlesbourg,Charlesbourg,1666,Paroisse St-Charles-Borromée,Church Rebuilt 19th c.
+115,Building,Château-Richer,Château-Richer,1660,,Undated Church
+116,Building,Contrecoeur,Contrecoeur,1676,Presbytère Ste-Trinité,Undated Church
+117,Building,Deschaillons,Deschaillons,1741,Presbytère Deschaillons,20th c. Church?
+118,Building,Deschambault,Deschambault,1681,Vieux Presbytère de Deschambault,17th c.?
+119,Building,Forges du St-Maurice,Forges du St-Maurice,1740,Forges du Saint-Maurice National Historic Site Lieu historique national des Forges-du-Saint-Maurice,Historical Building
+120,Building,Fort-St-Jean,Fort-St-Jean,1757,Musee du Fort Saint-Jean,Archaeology
+122,Building,Hôpital général de Québec,Hôpital général de Québec,1694,Centre d'hébergement Hôpital général de Québec,
+123,Building,L'Ancienne-Lorette,L'Ancienne-Lorette,1676,Presbytère Ancienne-Lorette,Undated Church
+124,Building,L'Ange-Gardien,L'Ange-Gardien,1666,Presbytère de l'Ange-Gardien,Undated Church
+125,Building,L'Île-Dupas,Île-Dupas,1724,,1904
+126,Building,L'Isle-aux-Coudres,Isle-aux-Coudres,1741,,"1885, not sure if I've gotten the coordinates right"
+127,Building,L'Islet,L'Islet,1679,Église Notre-Dame-de-Bonsecours,Undated Church
+128,Building,La Prairie,La Prairie,1670,La Nativité de la Sainte Vierge,Undated Church
+129,Building,La-Baie-du-Febvre,Baie-du-Febvre,1715,,20th c. Church?
+130,Building,Lanoraie,Lanoraie,1681,Presbytère St-Joseph,Undated Church
+131,Building,Laval (St-François-de-Sales de l’Île-Jésus),Laval (St-François),1681,Chapelle St. Mathieu,20th c. Church?
+132,Building,Laval (St-Vincent-de-Paul),Laval (St-Vincent-de-Paul),1733,Paroisse Catholique Saint-Vincent-de-Paul,"19th c. Church, I think where the original was"
+133,Building,Lavaltrie,Lavaltrie,1681,,Undated Church
+135,Building,Les Écureuils,Donnacona,1742,,Undated Church
+136,Building,Longueuil,Longueuil,1681,,Site of the Old Fort
+138,Building,Louiseville (St-Antoine-de-la-Rivière-du-Loup),Louiseville,1676,Presbytère Louiseville,1917
+139,Building,Maskinongé,Maskinongé,1728,Presbytère de Maskinongé,"Undated, called St. Joseph in the map"
+140,Building,Montréal (Notre-Dame-de-Montréal),Montréal (Notre-Dame-de-Montréal),1642,Basilique Notre-Dame de Montréal,"19th c. Church, I think where the original was"
+141,Building,Montréal (Pointe-aux-Trembles),L'Enfant-Jésus-de-la-Pointe-aux-Trembles,1674,Église Saint-Enfant-Jésus,Undated Church
+142,Building,Montréal (Rivière-des-Prairies),Montréal (Rivière-des-Prairies),1687,Paroisse Saint-Joseph,original building?
+143,Building,Montréal (Sault-au-Récollet),La-Visitation-du-Sault-au-Récollet,1625,Paroisse la Visitation-de-la-Bienheureuse-Vierge-Marie,1736
+144,Building,Montréal (Sts-Anges-de-Lachine),Montréal (Sts-Anges-de-Lachine),1675,Paroisse des Saints-Anges,1915
+145,Building,Neuville,Neuville,1669,Point aux Trembles,I believe this is Point aux Trembles on the 1761 Map
+146,Building,Nicolet,Nicolet,1681,St. Nicolet,"No Church, appr location"
+147,Building,Petite-Rivière-St-François,Petite-Rivière-St-François,1733,,"St Francois on the map, present-day chruch built 1905"
+148,Building,Pointe-Claire,Pointe-Claire,1711,Paroisse Jaint-Joachim,
+149,Building,Pointe-de-Lévy (Lauzon),Lauzon,1679,Église Saint-Joseph,
+150,Building,Pointe-du-Lac,La-Visitation-de-la-Pointe-du-Lac,1742,,St. Charles on the map
+151,Building,Pointe-Olivier (St-Mathias),La-Conception-de-la-Pointe-Olivier (St-Mathias),1739,St. Mathias Eglise,L'Imaulte Conseption in the 1761 Map
+152,Building,Québec (Notre-Dame-de-Québec),Notre-Dame-de-Québec,1616,,Church Dates to 1647
+153,Building,Repentigny,La-Purifiation-de-la-Bienheureuse-Vierge-Marie-de-Repentigny,1674,Paroisse de-la-Purification,
+154,Building,Sault-St-Louis (Kahnawake),Caughnawaga,1681,,
+155,Building,St-Antoine-de-Tilly,St-Antoine-de-Tilly,1681,,Church built 1702
+156,Building,St-Antoine-sur-Richelieu,St-Antoine,1749,,
+157,Building,St-Charles (Bellechasse),St-Charles (Bellechasse),1749,,
+158,Building,St-Charles-sur-Richelieu,St-Charles-sur-Richelieu,1740,,Named as St-Denis-sur-Richelieu on the Map but I believe that is a mistake
+159,Building,St-François I.O.,St-François I.O.,1679,,Built in 1734
+160,Building,St-François-de-la-Rivière-du-Sud,St-François-de-la-Rivière-du-Sud,1733,,
+161,Building,St-Jean I.O.,St-Jean I.O.,1680,,
+162,Building,St-Jean-Port-Joli,St-Jean-Port-Joli,1762,,In the Murray Map as St. John's
+163,Building,St-Joachim,St-Joachim,1687,,
+164,Building,St-Laurent I.O.,St-Laurent I.O.,1679,,
+165,Building,St-Michel-de-Bellechasse (La Durantaye),La Durantaye,1681,,
+166,Building,St-Nicolas,St-Nicolas,1694,,"Modern church, not sure if the location is exactly the same but in the right zone"
+167,Building,St-Ours,L'Immaculée-Conception-de-St-Ours,1676,,
+168,Building,St-Pierre I.O.,St-Pierre I.O.,1679,,
+169,Building,St-Pierre-les-Becquets,Les Becquets,1734,,
+170,Building,St-Sulpice,St-Sulpice,1703,,
+171,Building,St-Vallier,St-Vallier,1713,,Not sure if the location is exactly the same but in the right zone--not hugging the river like in the Murray Map
+172,Building,Ste-Anne-de-Beaupré,Ste-Anne-de-Beaupré,1651,,
+173,Building,Ste-Anne-de-Bellevue,Ste-Anne-de-Bellevue,1686,,Could not see a date
+174,Building,Ste-Anne-de-la-Pérade,Ste-Anne-de-la-Pérade,1679,,Could not see a date
+175,Building,Ste-Croix (Lotbinière),Ste-Croix (Lotbinière),1714,,"Could not see a date, looked 19th c."
+176,Building,Ste-Famille I.O.,Ste-Famille I.O.,1666,,"Could not see a date, looked 19th c."
+177,Building,Ste-Foy,Notre-Dame-de-Foy,1667,,Ruins
+178,Building,Ste-Geneviève (Pierrefonds),Ste-Geneviève (Pierrefonds),1741,Paroisse Ste-Geneviève,19th c.
+179,Building,Ste-Geneviève-de-Batiscan,Ste-Geneviève-de-Batiscan,1727,,"Could not see a date, looked 19th c."
+180,Building,Terrebonne,"St-Louis-de-France, co. de Terrebonne",1725,,"Different church name, could not see a date, looks 19th c."
+181,Building,Trois-Rivières,L'Immaculée-Conception-des-Trois-Rivières,1634,,"A little difficult to parse out the historical part of trois rivieres from google maps, but looks about right"
+182,Building,Varennes,Ste-Anne-de-Varennes,1681,,19th c.
+183,Building,Verchères,St-François-Xavier-de-Verchères,1681,,"Could not see a date, looked 19th c."
+184,Building,Yamaska,St-Michel-d'Yamaska,1727,,"Could not see a date, looked 19th c."
+185,Building,Oka,,,,
+186,Building,Montreal (St-Francois-d'Assise-de-la-Long-Pointe),,,,
+187,Building,L'Assomption,,,,
+301,Landscape Morphology,1,,,,
+302,Landscape Morphology,2,,,,
+303,Landscape Morphology,3,,,,
+304,Landscape Morphology,4,,,,
+305,Landscape Morphology,5,,,,
+306,Landscape Morphology,6,,,,
+307,Landscape Morphology,7,,,,
+308,Landscape Morphology,8,,,,
+309,Landscape Morphology,9,,,,
+310,Landscape Morphology,10,,,,
+311,Landscape Morphology,11,,,,
+312,Landscape Morphology,12,,,,
+313,Landscape Morphology,13,,,,
+314,Landscape Morphology,14,,,,
+316,Landscape Morphology,16,16A,,,
+315,Landscape Morphology,15,,,,
+316,Landscape Morphology,16,16B,,,
+317,Landscape Morphology,17,,,,
+318,Landscape Morphology,18,,,,
+319,Landscape Morphology,19,,,,
+320,Landscape Morphology,20,,,,
+321,Landscape Morphology,21,,,,
+322,Landscape Morphology,22,,,,
+323,Landscape Morphology,23,,,,
+324,Landscape Morphology,24,,,,
+325,Landscape Morphology,25,,,,
+326,Landscape Morphology,26,,,,
+327,Landscape Morphology,27,,,,
+328,Landscape Morphology,28,,,,
+329,Landscape Morphology,29,,,,
+330,Landscape Morphology,30,,,,
+331,Landscape Morphology,31,,,,
+332,Landscape Morphology,32,,,,
+333,Landscape Morphology,33,,,,
+334,Landscape Morphology,34,,,,
+335,Landscape Morphology,35,,,,
+336,Landscape Morphology,36,36A,,,
+336,Landscape Morphology,36,36B,,,
+337,Landscape Morphology,37,,,,
+338,Landscape Morphology,38,,,,
+339,Landscape Morphology,39,39A,,,
+339,Landscape Morphology,39,39B,,,
+340,Landscape Morphology,40,,,,
+341,Landscape Morphology,41,,,,
+342,Landscape Morphology,42,,,,
+343,Landscape Morphology,43,,,,
+344,Landscape Morphology,44,,,,
+345,Landscape Morphology,45,,,,
+346,Landscape Morphology,46,,,,
+347,Landscape Morphology,47,,,,
+348,Landscape Morphology,48,,,,
+349,Landscape Morphology,49,,,,
+350,Landscape Morphology,50,,,,
+351,Landscape Morphology,51,,,,
+352,Landscape Morphology,52,52A,,,
+352,Landscape Morphology,52,52B,,,
+353,Landscape Morphology,53,,,,
